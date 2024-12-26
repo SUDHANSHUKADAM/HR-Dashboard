@@ -45,13 +45,11 @@ A comprehensive list of employees with the following details:
 
 # Screenshots
 
-![image](https://github.com/user-attachments/assets/7896ea55-a3c1-43dd-99e2-ef02b37bf311)
-
+![image](https://github.com/user-attachments/assets/29b3ef71-c711-4222-9208-21f5f9c4412e)
 
 Overview Page
 
-![image](https://github.com/user-attachments/assets/4db4dc3c-9031-4bd1-a3b1-aea197979169)
-
+![image](https://github.com/user-attachments/assets/be39940c-171b-4672-becc-aa87cca22eae)
 
 Details Page
 
